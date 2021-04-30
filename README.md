@@ -1,2 +1,2 @@
 # accordiontest
-go to specific accordion panel
+go to a specific accordion panel
